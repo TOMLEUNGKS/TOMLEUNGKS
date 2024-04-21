@@ -12,8 +12,8 @@
 
 ## 🛠️ Tech Stack
 * 💻 JavaScript | Python | Java | TypeScript | SQL
-* 🔧 React.js | Vue.js | Node.js | Express.js | Tailwind CSS | MongoDB | PostgreSQL Firestore
-* 🔩 Selenium | Cucumber| TestNG | Karate | Appium, JUnit
+* 🔧 React.js | Vue.js | Node.js | Express.js | Tailwind CSS | MongoDB | PostgreSQL | Firestore
+* 🔩 Selenium | Cucumber| TestNG | Karate | Appium
 * 🪜 AWS | Azure | Docker | Jira | Jenkins | VirtualBox
 
 <!--
