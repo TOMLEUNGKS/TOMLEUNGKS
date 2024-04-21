@@ -1,12 +1,14 @@
-### Hi there! I'm Tom Leung 👋
+# Hi there! I'm Tom Leung 👋
 
 <h2 style="text-align: center;">🚀Software Developer | QA Automation Engineer🚀</h2>
+
 
 ## 👨🏻‍💻 About Me
 * 💼 Worked on full-stack software development and QA automation
 * 📖 Currently learning more about client and server-side technologies
 * 🌎 Passionate about solving the world's challenges with technology and bringing good to the world
 * 🎓 MSc in Advanced Information Systems
+
 
 ## 🛠️ Tech Stack
 * 💻 JavaScript | Python | Java | TypeScript | SQL
