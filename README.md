@@ -1,6 +1,10 @@
 # Hi there! I'm Tom 👋
 
-I am currently working as a full-stack software developer. I am driven to apply technology to solve real-world problems and better humanity. While I spend time keeping up with the latest technologies, I am also keen on contributing to open-source projects.
+I am currently working as a full-stack software developer. 
+
+I am driven to apply technology to solve real-world problems and better humanity. 
+
+While I spend time keeping up with the latest technologies, I am also keen on contributing to open-source projects! 
 
 <!--
 **TOMLEUNGKS/TOMLEUNGKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
