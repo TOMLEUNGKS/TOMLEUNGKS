@@ -1,20 +1,6 @@
-# Hi there! I'm Tom Leung 👋
+# Hi there! I'm Tom 👋
 
-<h2 style="text-align: center;">🚀Software Developer | QA Automation Engineer🚀</h2>
-
-
-## 👨🏻‍💻 About Me
-* 💼 Worked on full-stack software development and QA automation
-* 📖 Currently learning more about client and server-side technologies
-* 🌎 Passionate about solving the world's challenges with technology and bringing good to the world
-* 🎓 MSc in Advanced Information Systems
-
-
-## 🛠️ Tech Stack
-* 💻 JavaScript | Python | Java | TypeScript | SQL
-* 🔧 React.js | Vue.js | Node.js | Express.js | Tailwind CSS | MongoDB | PostgreSQL | Firestore
-* 🔩 Selenium | Cucumber| TestNG | Karate | Appium
-* 🪜 AWS | Azure | Docker | Jira | Jenkins | VirtualBox
+* I am currently working as a full-stack software developer. I am driven to apply technology to solve real-world problems and better humanity. While I spend time keeping up with the latest technologies, I am also keen on contributing to open-source projects.
 
 <!--
 **TOMLEUNGKS/TOMLEUNGKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
